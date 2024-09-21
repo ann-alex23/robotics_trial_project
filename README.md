@@ -1,1 +1,1 @@
-# robotics_trial_project
+This is a path planning package using A*.
