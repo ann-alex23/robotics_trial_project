@@ -1,0 +1,26 @@
+[0.282s] Invoking command in '/root/project_root/src/py_pubsub': PYTHONPATH=/root/project_root/build/py_pubsub/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/project_root/install/py_pubsub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/py_pubsub build --build-base /root/project_root/build/py_pubsub/build install --record /root/project_root/build/py_pubsub/install.log --single-version-externally-managed install_data
+[0.393s] running egg_info
+[0.393s] writing ../../build/py_pubsub/py_pubsub.egg-info/PKG-INFO
+[0.394s] writing dependency_links to ../../build/py_pubsub/py_pubsub.egg-info/dependency_links.txt
+[0.394s] writing entry points to ../../build/py_pubsub/py_pubsub.egg-info/entry_points.txt
+[0.394s] writing requirements to ../../build/py_pubsub/py_pubsub.egg-info/requires.txt
+[0.394s] writing top-level names to ../../build/py_pubsub/py_pubsub.egg-info/top_level.txt
+[0.395s] reading manifest file '../../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[0.395s] adding license file 'LICENSE'
+[0.395s] writing manifest file '../../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[0.396s] running build
+[0.396s] running build_py
+[0.396s] copying py_pubsub/subscriber_member_function.py -> /root/project_root/build/py_pubsub/build/lib/py_pubsub
+[0.396s] running install
+[0.396s] running install_lib
+[0.396s] copying /root/project_root/build/py_pubsub/build/lib/py_pubsub/subscriber_member_function.py -> /root/project_root/install/py_pubsub/lib/python3.10/site-packages/py_pubsub
+[0.397s] byte-compiling /root/project_root/install/py_pubsub/lib/python3.10/site-packages/py_pubsub/subscriber_member_function.py to subscriber_member_function.cpython-310.pyc
+[0.397s] running install_data
+[0.397s] running install_egg_info
+[0.398s] removing '/root/project_root/install/py_pubsub/lib/python3.10/site-packages/py_pubsub-0.0.0-py3.10.egg-info' (and everything under it)
+[0.398s] Copying ../../build/py_pubsub/py_pubsub.egg-info to /root/project_root/install/py_pubsub/lib/python3.10/site-packages/py_pubsub-0.0.0-py3.10.egg-info
+[0.399s] running install_scripts
+[0.411s] Installing listener script to /root/project_root/install/py_pubsub/lib/py_pubsub
+[0.411s] Installing talker script to /root/project_root/install/py_pubsub/lib/py_pubsub
+[0.411s] writing list of installed files to '/root/project_root/build/py_pubsub/install.log'
+[0.425s] Invoked command in '/root/project_root/src/py_pubsub' returned '0': PYTHONPATH=/root/project_root/build/py_pubsub/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/project_root/install/py_pubsub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/py_pubsub build --build-base /root/project_root/build/py_pubsub/build install --record /root/project_root/build/py_pubsub/install.log --single-version-externally-managed install_data

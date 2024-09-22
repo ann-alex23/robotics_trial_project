@@ -1,0 +1,5 @@
+  File "/root/project_root/install/robotics_trial/lib/python3.10/site-packages/robotics_trial/final_path.py", line 102
+    if (x,y) not in g_cost or temp_g_cost<g_cost[(x,y)]
+                                                       ^
+SyntaxError: expected ':'
+

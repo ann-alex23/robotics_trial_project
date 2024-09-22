@@ -1,0 +1,6 @@
+[console_scripts]
+goal_node_publisher = robotics_trial.goal_node_publish:main
+map_publisher = robotics_trial.map_publisher:main
+path_compute = robotics_trial.final_path:main
+start_node_publisher = robotics_trial.start_node_publish:main
+

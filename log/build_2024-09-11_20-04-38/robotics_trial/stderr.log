@@ -1,0 +1,5 @@
+  File "/root/project_root/install/robotics_trial/lib/python3.10/site-packages/robotics_trial/map_publisher.py", line 35
+    self.get_logger().info('Publishing: ', % oc_grid.data)
+                                           ^
+SyntaxError: invalid syntax
+

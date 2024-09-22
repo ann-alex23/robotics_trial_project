@@ -1,0 +1,23 @@
+running egg_info
+writing ../../build/robotics_trial/robotics_trial.egg-info/PKG-INFO
+writing dependency_links to ../../build/robotics_trial/robotics_trial.egg-info/dependency_links.txt
+writing entry points to ../../build/robotics_trial/robotics_trial.egg-info/entry_points.txt
+writing requirements to ../../build/robotics_trial/robotics_trial.egg-info/requires.txt
+writing top-level names to ../../build/robotics_trial/robotics_trial.egg-info/top_level.txt
+reading manifest file '../../build/robotics_trial/robotics_trial.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/robotics_trial/robotics_trial.egg-info/SOURCES.txt'
+running build
+running build_py
+copying robotics_trial/map_publisher.py -> /root/project_root/build/robotics_trial/build/lib/robotics_trial
+running install
+running install_lib
+copying /root/project_root/build/robotics_trial/build/lib/robotics_trial/map_publisher.py -> /root/project_root/install/robotics_trial/lib/python3.10/site-packages/robotics_trial
+byte-compiling /root/project_root/install/robotics_trial/lib/python3.10/site-packages/robotics_trial/map_publisher.py to map_publisher.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/root/project_root/install/robotics_trial/lib/python3.10/site-packages/robotics_trial-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/robotics_trial/robotics_trial.egg-info to /root/project_root/install/robotics_trial/lib/python3.10/site-packages/robotics_trial-0.0.0-py3.10.egg-info
+running install_scripts
+Installing map_publisher script to /root/project_root/install/robotics_trial/lib/robotics_trial
+writing list of installed files to '/root/project_root/build/robotics_trial/install.log'

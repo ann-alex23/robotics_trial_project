@@ -1,0 +1,28 @@
+[1.152s] Invoking command in '/root/project_root/src/robotics_trial': PYTHONPATH=/root/project_root/build/robotics_trial/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/project_root/install/robotics_trial/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/robotics_trial build --build-base /root/project_root/build/robotics_trial/build install --record /root/project_root/build/robotics_trial/install.log --single-version-externally-managed install_data
+[1.354s] running egg_info
+[1.355s] writing ../../build/robotics_trial/robotics_trial.egg-info/PKG-INFO
+[1.356s] writing dependency_links to ../../build/robotics_trial/robotics_trial.egg-info/dependency_links.txt
+[1.357s] writing entry points to ../../build/robotics_trial/robotics_trial.egg-info/entry_points.txt
+[1.357s] writing requirements to ../../build/robotics_trial/robotics_trial.egg-info/requires.txt
+[1.357s] writing top-level names to ../../build/robotics_trial/robotics_trial.egg-info/top_level.txt
+[1.359s] reading manifest file '../../build/robotics_trial/robotics_trial.egg-info/SOURCES.txt'
+[1.360s] adding license file 'LICENSE'
+[1.361s] writing manifest file '../../build/robotics_trial/robotics_trial.egg-info/SOURCES.txt'
+[1.361s] running build
+[1.361s] running build_py
+[1.361s] copying robotics_trial/final_path.py -> /root/project_root/build/robotics_trial/build/lib/robotics_trial
+[1.364s] running install
+[1.364s] running install_lib
+[1.366s] copying /root/project_root/build/robotics_trial/build/lib/robotics_trial/final_path.py -> /root/project_root/install/robotics_trial/lib/python3.10/site-packages/robotics_trial
+[1.367s] byte-compiling /root/project_root/install/robotics_trial/lib/python3.10/site-packages/robotics_trial/final_path.py to final_path.cpython-310.pyc
+[1.369s] running install_data
+[1.369s] running install_egg_info
+[1.371s] removing '/root/project_root/install/robotics_trial/lib/python3.10/site-packages/robotics_trial-0.0.0-py3.10.egg-info' (and everything under it)
+[1.372s] Copying ../../build/robotics_trial/robotics_trial.egg-info to /root/project_root/install/robotics_trial/lib/python3.10/site-packages/robotics_trial-0.0.0-py3.10.egg-info
+[1.374s] running install_scripts
+[1.399s] Installing goal_node_publisher script to /root/project_root/install/robotics_trial/lib/robotics_trial
+[1.399s] Installing map_publisher script to /root/project_root/install/robotics_trial/lib/robotics_trial
+[1.399s] Installing path_compute script to /root/project_root/install/robotics_trial/lib/robotics_trial
+[1.399s] Installing start_node_publisher script to /root/project_root/install/robotics_trial/lib/robotics_trial
+[1.400s] writing list of installed files to '/root/project_root/build/robotics_trial/install.log'
+[1.453s] Invoked command in '/root/project_root/src/robotics_trial' returned '0': PYTHONPATH=/root/project_root/build/robotics_trial/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/project_root/install/robotics_trial/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/robotics_trial build --build-base /root/project_root/build/robotics_trial/build install --record /root/project_root/build/robotics_trial/install.log --single-version-externally-managed install_data

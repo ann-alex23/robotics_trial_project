@@ -1,0 +1,5 @@
+  File "/root/project_root/install/robotics_trial/lib/python3.10/site-packages/robotics_trial/final_path.py", line 27
+    self.path_publisher=self.create_publisher(,/path,10)
+                                              ^
+SyntaxError: invalid syntax
+

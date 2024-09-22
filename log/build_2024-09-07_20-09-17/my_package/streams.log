@@ -1,0 +1,38 @@
+[0.337s] Invoking command in '/root/project_root/src/my_package': PYTHONPATH=/root/project_root/build/my_package/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/project_root/install/my_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_package build --build-base /root/project_root/build/my_package/build install --record /root/project_root/build/my_package/install.log --single-version-externally-managed install_data
+[0.445s] running egg_info
+[0.445s] creating ../../build/my_package/my_package.egg-info
+[0.445s] writing ../../build/my_package/my_package.egg-info/PKG-INFO
+[0.446s] writing dependency_links to ../../build/my_package/my_package.egg-info/dependency_links.txt
+[0.446s] writing entry points to ../../build/my_package/my_package.egg-info/entry_points.txt
+[0.446s] writing requirements to ../../build/my_package/my_package.egg-info/requires.txt
+[0.446s] writing top-level names to ../../build/my_package/my_package.egg-info/top_level.txt
+[0.446s] writing manifest file '../../build/my_package/my_package.egg-info/SOURCES.txt'
+[0.448s] reading manifest file '../../build/my_package/my_package.egg-info/SOURCES.txt'
+[0.448s] adding license file 'LICENSE'
+[0.448s] writing manifest file '../../build/my_package/my_package.egg-info/SOURCES.txt'
+[0.448s] running build
+[0.448s] running build_py
+[0.448s] creating /root/project_root/build/my_package/build
+[0.448s] creating /root/project_root/build/my_package/build/lib
+[0.450s] creating /root/project_root/build/my_package/build/lib/my_package
+[0.450s] copying my_package/__init__.py -> /root/project_root/build/my_package/build/lib/my_package
+[0.450s] copying my_package/my_node.py -> /root/project_root/build/my_package/build/lib/my_package
+[0.451s] running install
+[0.451s] running install_lib
+[0.451s] creating /root/project_root/install/my_package/lib/python3.10/site-packages/my_package
+[0.451s] copying /root/project_root/build/my_package/build/lib/my_package/__init__.py -> /root/project_root/install/my_package/lib/python3.10/site-packages/my_package
+[0.451s] copying /root/project_root/build/my_package/build/lib/my_package/my_node.py -> /root/project_root/install/my_package/lib/python3.10/site-packages/my_package
+[0.452s] byte-compiling /root/project_root/install/my_package/lib/python3.10/site-packages/my_package/__init__.py to __init__.cpython-310.pyc
+[0.452s] byte-compiling /root/project_root/install/my_package/lib/python3.10/site-packages/my_package/my_node.py to my_node.cpython-310.pyc
+[0.452s] running install_data
+[0.452s] creating /root/project_root/install/my_package/share/ament_index
+[0.452s] creating /root/project_root/install/my_package/share/ament_index/resource_index
+[0.453s] creating /root/project_root/install/my_package/share/ament_index/resource_index/packages
+[0.453s] copying resource/my_package -> /root/project_root/install/my_package/share/ament_index/resource_index/packages
+[0.454s] copying package.xml -> /root/project_root/install/my_package/share/my_package
+[0.454s] running install_egg_info
+[0.455s] Copying ../../build/my_package/my_package.egg-info to /root/project_root/install/my_package/lib/python3.10/site-packages/my_package-0.0.0-py3.10.egg-info
+[0.455s] running install_scripts
+[0.466s] Installing my_node script to /root/project_root/install/my_package/lib/my_package
+[0.466s] writing list of installed files to '/root/project_root/build/my_package/install.log'
+[0.479s] Invoked command in '/root/project_root/src/my_package' returned '0': PYTHONPATH=/root/project_root/build/my_package/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/project_root/install/my_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_package build --build-base /root/project_root/build/my_package/build install --record /root/project_root/build/my_package/install.log --single-version-externally-managed install_data

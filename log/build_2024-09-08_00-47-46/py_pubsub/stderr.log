@@ -1,0 +1,5 @@
+  File "/root/project_root/install/py_pubsub/lib/python3.10/site-packages/py_pubsub/subscriber_member_function.py", line 29
+    10) T#he fourth argument (10) defines the queue size (how many messages can be queued before they're dropped if the subscriber can't keep up)
+        ^
+SyntaxError: invalid syntax
+
